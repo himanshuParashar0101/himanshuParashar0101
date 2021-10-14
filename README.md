@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/himanshu-parashar-b712941a3/](https://www.linkedin.com/in/himanshu-parashar-b712941a3/)
 
-- 💬 Ask me about **Google Cloud ,c++**
+- 💬 Ask me about **Python , C++ , Java , Google Cloud**
 
 - 📫 How to reach me **himanshuparashar0101@gmail.com**
 
