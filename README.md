@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0101_himanshu" target="blank"><img src="https://img.shields.io/twitter/follow/0101_himanshu?logo=twitter&style=for-the-badge" alt="0101_himanshu" /></a> </p>
 
-- 🔭 I’m currently working on [Sign Language Detection](https://github.com/imRishabhGupta/Indian-Sign-Language-Recognition)
+- 🔭 I’m currently working on [Sign Language Detection](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning)
 
 - 🌱 I’m currently learning **Cloud Computing and some frontend framework**
 
