@@ -1,8 +1,8 @@
 💫 About Me:
-🔭 Exploring web development
-👯looking for job in software development
-🤝 Looking for mentorship in the blockchain space
-🌱 Learning Ethereum, Solidity, and other Web3 technologies
+🔭 Exploring web development<br><br>
+👯looking for job in software development<br><br>
+🤝 Looking for mentorship in the web development<br><br>
+🌱 Learning Ethereum, Solidity, and other Web3 technologies<br><br>
 💬 send me mail at  himanshu007parashar@gmail.com
 
 
